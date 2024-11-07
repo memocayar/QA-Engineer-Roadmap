@@ -10,3 +10,8 @@ Pero para lograr esta meta no solo es necesario entender qué es lo que espera e
 
 Las habilidades técnicas del QA son necesarias para diseñar los casos de pruebas. Y las habilidades blandas determinarán que casos de prueba son los importantes, debido a que es fisicamente imposible probar todos los flujos. 
 
+1. Qué es Quality Assurance. Definición de cálidad. 
+2. Qué es la ingeniería.
+3. Proceso de desarrollo de software.
+4. Tipos de pruebas.
+5. Diseño y gestión de casos de pruebas. Ciclos. Ejecución. 
