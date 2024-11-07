@@ -15,5 +15,13 @@ Las habilidades técnicas del QA son necesarias para diseñar los casos de prueb
 3. Proceso de desarrollo de software.
 4. Tipos de pruebas.
 5. Diseño y gestión de casos de pruebas. Ciclos. Ejecución.
-6. Automatización de pruebas.
-7. CI/CD y Pipelines.
+6. API
+7. Base de Datos 
+8. Automatización de pruebas.
+   - No-code y low-code
+   - Logica de programación 
+   - Control de versiones con Git
+   - Java y Selenium.
+   - Patron de diseño: Page Object Model
+9. CI/CD y Pipelines.
+10. Proyectos y Pruebas técnicas.
