@@ -14,4 +14,6 @@ Las habilidades técnicas del QA son necesarias para diseñar los casos de prueb
 2. Qué es la ingeniería. Cómo aplicar la ingeniería en la cálidad. 
 3. Proceso de desarrollo de software.
 4. Tipos de pruebas.
-5. Diseño y gestión de casos de pruebas. Ciclos. Ejecución. 
+5. Diseño y gestión de casos de pruebas. Ciclos. Ejecución.
+6. Automatización de pruebas.
+7. CI/CD y Pipelines.
