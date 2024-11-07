@@ -12,7 +12,7 @@ Las habilidades técnicas del QA son necesarias para diseñar los casos de prueb
 
 1. Qué es Quality Assurance. Definición de cálidad. 
 2. Qué es la ingeniería. Cómo aplicar la ingeniería en la cálidad. 
-3. Proceso de desarrollo de software.
+3. Proceso de desarrollo de software. Metodologías.
 4. Tipos de pruebas.
 5. Diseño y gestión de casos de pruebas. Ciclos. Ejecución.
 6. API
